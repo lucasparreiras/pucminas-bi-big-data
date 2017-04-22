@@ -1,6 +1,6 @@
-#Curso BI - Big Data - MapReduce
+# Curso BI - Big Data - MapReduce
 
-##Exercicio 2
+## Exercicio 2
 
 Neste caso vamos implementar um junção e agrupamento de duas tabelas que estão representadas por dois arquivos:
 I. Vendas;
